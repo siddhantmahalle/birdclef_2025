@@ -8,3 +8,7 @@ librosa
 torch
 torchaudio
 scipy
+torchvision
+tqdm
+pytorch_lightning
+wandb

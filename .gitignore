@@ -175,3 +175,5 @@ cython_debug/
 
 data/
 iframe_figures/
+wandb/
+models/
