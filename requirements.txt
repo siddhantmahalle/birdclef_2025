@@ -12,3 +12,4 @@ torchvision
 tqdm
 pytorch_lightning
 wandb
+timm
